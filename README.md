@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm yogesh sai from NIT Durgapur.<br><br>-  I’m computer science and engineering student.<br>-  I'm currently learning various tech skills and working on different projects.</p>
+<p align="left">This is yogesh sai D, software developer at Juspay, passed out from NIT Durgapur.<br><br>-  I’m computer science and engineering student.<br>-  I'm currently learning various tech skills and working on different projects.</p>
 
 ###
 
