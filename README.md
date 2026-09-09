@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yogeshsaii.yogeshsaii" alt="Profile views" />
-</p>
-
 ## About
 
 I’m a software developer at **Juspay**, building reliable payment systems and merchant integrations. My work spans payment flows, authentication, risk integrations, reconciliation, and scalable backend services.
